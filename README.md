@@ -1,5 +1,5 @@
 ### Hi there, I'm Nina 👋
 
 
-👩‍💻 Front End Developer Student @ Medieinstitutet, Stockholm
+👩‍💻 Front End Developer based in Stockholm.
 
